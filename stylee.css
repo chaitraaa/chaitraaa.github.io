@@ -1,0 +1,23 @@
+html{
+			background:url('./pics/a1.jpg') no-repeat fixed;
+			background-size: cover;
+		}
+		h1{
+			position: absolute;
+			top:30%;
+			left: 50%;
+			transform: translate(-50%,-50%);
+			color: #ffff;
+			font-size: 50px;
+		}
+		p{
+			margin-top: 20%;
+			margin-left: 50%;
+			color: #ffff;
+		}
+		a{
+			position: center;
+		}
+		img{
+			padding: 1%;
+		}
